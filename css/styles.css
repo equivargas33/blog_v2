@@ -1,0 +1,48 @@
+
+*{
+    font-family: "Arial"
+}
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    
+}
+
+#container {
+    margin: 0;
+    padding: 10px auto;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+#HEAD h1{
+    text-align: center;
+}
+
+#HEAD p{
+    font-weight: bold;
+    color: rgb(16, 20, 19);
+}
+
+#tag-line{
+    letter-spacing: 0.2px;
+}
+
+#HEAD{
+    text-align: center;
+    background-color: rgba(60, 105, 230, 0.973);
+    margin: auto 0;
+    padding: 25px 25px;
+    box-shadow: 7px -7px 5px -4px rgb(56, 55, 56);
+}
+
+#main{
+    margin: 10px;
+    padding: 5px 15px;
+    align-items: center;
+    text-align: justify;
+    color: black;
+    font-weight: bold;
+}
+
