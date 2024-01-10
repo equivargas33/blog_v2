@@ -1,40 +1,53 @@
 
 *{
-    font-family: "Arial"
+    font-family: Arial, Helvetica, sans-serif
 }
 body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
+    margin: auto;
+    padding: 0 100px;
+    background-color: #B4D4FF;
     
 }
 
 #container {
     margin: 0;
-    padding: 10px auto;
+    padding: 50px auto;
     display: flex;
     flex-flow: column nowrap;
+    background-color: aliceblue;
 }
 
-#HEAD h1{
-    text-align: center;
-}
 
 #HEAD p{
-    font-weight: bold;
-    color: rgb(16, 20, 19);
+    font-size: 24px;
+    color: white;
+    text-align: left;
+    margin: 15px;
+    padding: 0 0 0 0.1ew;
+    letter-spacing: 0.5px;
 }
 
 #tag-line{
-    letter-spacing: 0.2px;
+    color: #EEF5FF;
+    margin: 15px;
+    font-weight: bolder;
 }
 
 #HEAD{
     text-align: center;
-    background-color: rgba(60, 105, 230, 0.973);
-    margin: auto 0;
-    padding: 25px 25px;
-    box-shadow: 7px -7px 5px -4px rgb(56, 55, 56);
+    background-color: rgba(36, 86, 224, 0.973);
+    box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75);
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+#HEAD #logo{
+    width: 60px;
 }
 
 #main{
@@ -44,5 +57,10 @@ body {
     text-align: justify;
     color: black;
     font-weight: bold;
+    font-size: larger;
 }
 
+#main h1{
+    text-align: center;
+    color: #86B6F6;
+}
