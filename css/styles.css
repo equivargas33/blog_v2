@@ -60,6 +60,12 @@ body {
     font-size: larger;
 }
 
+#main h1{
+    text-align: center;
+    color: #525CEB;
+    text-shadow: 1px 1px 2px black;;
+}
+
 #footer{
     color: #176B87;
     text-align: center;
