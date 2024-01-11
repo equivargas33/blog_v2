@@ -16,7 +16,7 @@ Este es un blog creado con finalidades educativas al seguir el curso de Git y Gi
 </head>
 <body>
 	<hr style="border-top: 5px solid #3D3B40">
-	<div class="Contenido-basico" style="background-color:#BFCFE7; heigh: 50px; width:80%; margin: auto; padding:5px;">
+	<div class="Contenido-basico" style="background-color:tomato;; heigh: 50px; width:80%; margin: auto; padding:5px;">
 		<h1 align="center">
 			Ac&aacute; agrego un poco de HTML
 		</h1 >
