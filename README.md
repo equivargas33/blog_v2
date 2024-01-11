@@ -5,6 +5,7 @@ Este es un blog creado con finalidades educativas al seguir el curso de Git y Gi
 - En el desarrollo de este blog mejore mis conocimientos de HTML y CSS.
 - Aprendí a utilizar git desde el Bash de Git bash como tambien el bash de Linux.
 - Agradezco a mi compañero Andrés Eljach por prestarme su cuenta de Platzi uwu.
+- Desarrollado por Daniel A. Vargas con el apoyo del mejor profesor Freddy Vega de Platzi.
 
 	<hr style="border-top: 5px solid #3D3B40">
 	<div class="Contenido-basico" style="background-color:#BFCFE7; heigh: 50px; width:80%; margin: auto; padding:5px;">
